@@ -1,0 +1,14 @@
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\bin\Debug\netcoreapp3.1\CircleLabRedux.exe
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\bin\Debug\netcoreapp3.1\CircleLabRedux.deps.json
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\bin\Debug\netcoreapp3.1\CircleLabRedux.runtimeconfig.json
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\bin\Debug\netcoreapp3.1\CircleLabRedux.runtimeconfig.dev.json
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\bin\Debug\netcoreapp3.1\CircleLabRedux.dll
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\bin\Debug\netcoreapp3.1\CircleLabRedux.pdb
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\obj\Debug\netcoreapp3.1\CircleLabRedux.csproj.AssemblyReference.cache
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\obj\Debug\netcoreapp3.1\CircleLabRedux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\obj\Debug\netcoreapp3.1\CircleLabRedux.AssemblyInfoInputs.cache
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\obj\Debug\netcoreapp3.1\CircleLabRedux.AssemblyInfo.cs
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\obj\Debug\netcoreapp3.1\CircleLabRedux.csproj.CoreCompileInputs.cache
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\obj\Debug\netcoreapp3.1\CircleLabRedux.dll
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\obj\Debug\netcoreapp3.1\CircleLabRedux.pdb
+C:\Users\PConrad\source\repos\CircleLabRedux\CircleLabRedux\obj\Debug\netcoreapp3.1\CircleLabRedux.genruntimeconfig.cache

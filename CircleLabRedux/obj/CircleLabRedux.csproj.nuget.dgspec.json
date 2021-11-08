@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PConrad\\source\\repos\\CircleLabRedux\\CircleLabRedux\\CircleLabRedux.csproj": {}
+    "C:\\Users\\CFlynn3\\source\\repos\\Week5_PhilUnitTests\\CircleLabRedux\\CircleLabRedux.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PConrad\\source\\repos\\CircleLabRedux\\CircleLabRedux\\CircleLabRedux.csproj": {
+    "C:\\Users\\CFlynn3\\source\\repos\\Week5_PhilUnitTests\\CircleLabRedux\\CircleLabRedux.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PConrad\\source\\repos\\CircleLabRedux\\CircleLabRedux\\CircleLabRedux.csproj",
+        "projectUniqueName": "C:\\Users\\CFlynn3\\source\\repos\\Week5_PhilUnitTests\\CircleLabRedux\\CircleLabRedux.csproj",
         "projectName": "CircleLabRedux",
-        "projectPath": "C:\\Users\\PConrad\\source\\repos\\CircleLabRedux\\CircleLabRedux\\CircleLabRedux.csproj",
-        "packagesPath": "C:\\Users\\PConrad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PConrad\\source\\repos\\CircleLabRedux\\CircleLabRedux\\obj\\",
+        "projectPath": "C:\\Users\\CFlynn3\\source\\repos\\Week5_PhilUnitTests\\CircleLabRedux\\CircleLabRedux.csproj",
+        "packagesPath": "C:\\Users\\CFlynn3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CFlynn3\\source\\repos\\Week5_PhilUnitTests\\CircleLabRedux\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PConrad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\CFlynn3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -39,6 +43,22 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,23 +7,29 @@ namespace CircleLabRedux
     class Circle
     {
         public double Radius {get; set;}
-        public double Circumfernce => Radius * Math.PI * 2;
+        
         public double Area => Math.PI * Radius * Radius;
 
         public Circle(double radius)
         {
             this.Radius = radius;
         }
-        public override string ToString()
+
+        public Circle()
         {
-            string output = $"Radius: {Math.Round(Radius,2)}\n" +
-                $"Circumference: {Math.Round(Circumfernce,2)}\n" +
-                $"Area: {Math.Round(Area,2)}";
-            return output;
         }
-        public double CalculateCircumference()
+
+        //public override string ToString()
+        //{
+        //    string output = $"Radius: {Math.Round(Radius,2)}\n" +
+        //        $"Circumference: {Math.Round(Circumference,2)}\n" +
+        //        $"Area: {Math.Round(Area,2)}";
+        //    return output;
+        //}
+        public double CalculateCircumference(double radius)
         {
-            return Circumfernce;
+            double circumference = radius * Math.PI * 2;
+            return Math.Round(circumference, 2);
         }
         public double CalculateArea()
         {

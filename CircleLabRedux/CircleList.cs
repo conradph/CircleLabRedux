@@ -52,7 +52,7 @@ namespace CircleLabRedux
                 }
                 c = new Circle(radius);
                 circles.Add(c);
-                Console.WriteLine($"Circumference: {Math.Round(c.CalculateCircumference(),2)}");
+                //Console.WriteLine($"Circumference: {Math.Round(c.CalculateCircumference(),2)}");
                 Console.WriteLine($"Area: {Math.Round(c.CalculateArea(),2)}");
                 goOn = GoOn();
             }
